@@ -67,7 +67,7 @@ function App() {
             variant="outlined"
             color="secondary"
             onChange={(e) => {setName(e.target.value);
-              setUrl(`https://api.github.com/users/${e.target.value}?client_id=c734a2e186e9a934ee74&client_secret= 99017c7d7942a183d4b9350a3a53c91db9d5994f`)
+              setUrl(`https://api.github.com/users/${e.target.value}`)
             } }
         />
         </form>
