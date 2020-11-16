@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.myimg{
+  height: 50%;
+  width: 50%;
+  padding-left: 10%;
+  position: relative;
+  right: 15%;
+  top: 35px;
+}
+.des
+{
+  position: relative;
+  top: 70px;
+}
+.helo
+{
+  position: relative;
+  top: 110px;
+}
+.prof
+{
+  padding: 20px;
+  position: relative;
+  top: 120px;
+}
+#ka
+{
+  position: relative;
+  top: 2px;
+  left: 45px;
+  width: 18rem;
+}
+.nam
+{
+  padding: 10px;
+  position: relative;
+  right: 20%;
+}
